@@ -11,5 +11,14 @@ public class Main {
 
         mid.middleNode(head);
 
+        MaximumWealth maximumWealth = new MaximumWealth();
+        int[][] accounts = {
+                {1,2,3,4},
+                {2,3,4,12},
+                {3,4,5,6}
+        };
+        int wealth = maximumWealth.maximumWealth(accounts);
+        System.out.println("Wealth is:  " + wealth);
+
     }
 }

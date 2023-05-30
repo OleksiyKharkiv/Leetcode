@@ -2,10 +2,10 @@ public class MaximumWealth {
     public int maximumWealth(int[][] accounts) {
         int wealth = 0;
 
-        for (int i = 0; i < accounts.length; i++) {
+        for (int[] account : accounts) {
             int sum = 0;
-            for (int j = 0; j < accounts[i].length; j++) {
-                sum += accounts[i][j];
+            for (int i : account) {
+                sum += i;
                 if (sum > wealth) {
                     wealth = sum;
                 }
