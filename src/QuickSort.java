@@ -23,6 +23,6 @@ public class QuickSort {
     public static void swap(int[] array, int i, int j) {
         int temp = array[i];
         array[i] = array[j];
-        array[i] = array[i];
+        array[j] = temp;
     }
 }
