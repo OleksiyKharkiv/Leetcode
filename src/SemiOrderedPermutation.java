@@ -11,7 +11,7 @@ public class SemiOrderedPermutation {
                 tempMax = nums[i];
             }
         }
-
+//
         while (nums[0] != tempMin && nums[nums.length-1]!=tempMax){
             for (int k = 0; k < nums.length-1; k++){
                 if (nums[k] > nums[k+1]){
