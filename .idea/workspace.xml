@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.7">
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <workItem from="1685122130211" duration="14604000" />
       <workItem from="1685990405245" duration="939000" />
       <workItem from="1685991471159" duration="335000" />
-      <workItem from="1685991825744" duration="7266000" />
+      <workItem from="1685991825744" duration="8632000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686597607744</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="LeetCode. Training.1.8">
+      <created>1686672967006</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686672967006</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +180,8 @@
     <MESSAGE value="LeetCode. Training.1.5" />
     <MESSAGE value="LeetCode. Training.1.6" />
     <MESSAGE value="LeetCode. Training.1.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.7" />
+    <MESSAGE value="LeetCode. Training.1.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
