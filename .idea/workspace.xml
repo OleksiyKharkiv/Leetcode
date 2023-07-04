@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.12">
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <workItem from="1687442752156" duration="702000" />
       <workItem from="1687730093430" duration="4598000" />
       <workItem from="1688400334249" duration="527000" />
-      <workItem from="1688401741397" duration="751000" />
+      <workItem from="1688401741397" duration="2039000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -206,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688378573648</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="LeetCode. Training.1.13">
+      <option name="closed" value="true" />
+      <created>1688409097061</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688409097061</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +234,8 @@
     <MESSAGE value="LeetCode. Training.1.10" />
     <MESSAGE value="LeetCode. Training.1.11" />
     <MESSAGE value="LeetCode. Training.1.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.12" />
+    <MESSAGE value="LeetCode. Training.1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
