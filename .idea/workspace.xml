@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.15">
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -83,6 +83,9 @@
       <workItem from="1688465138038" duration="2295000" />
       <workItem from="1688634250207" duration="12159000" />
       <workItem from="1688893845134" duration="1479000" />
+      <workItem from="1690731157454" duration="2637000" />
+      <workItem from="1690903503184" duration="3211000" />
+      <workItem from="1691171477842" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -250,7 +253,39 @@
       <option name="project" value="LOCAL" />
       <updated>1688761457998</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="LeetCode. Training.1.16">
+      <option name="closed" value="true" />
+      <created>1690731759130</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690731759130</updated>
+    </task>
+    <task id="LOCAL-00025" summary="LeetCode. Training.1.17">
+      <option name="closed" value="true" />
+      <created>1690903698239</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1690903698239</updated>
+    </task>
+    <task id="LOCAL-00026" summary="LeetCode. Training.1.18">
+      <option name="closed" value="true" />
+      <created>1690905133350</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1690905133350</updated>
+    </task>
+    <task id="LOCAL-00027" summary="LeetCode. Training.1.19">
+      <option name="closed" value="true" />
+      <created>1690906855852</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1690906855852</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +308,11 @@
     <MESSAGE value="LeetCode. Training.1.13" />
     <MESSAGE value="LeetCode. Training.1.14" />
     <MESSAGE value="LeetCode. Training.1.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.15" />
+    <MESSAGE value="LeetCode. Training.1.16" />
+    <MESSAGE value="LeetCode. Training.1.17" />
+    <MESSAGE value="LeetCode. Training.1.18" />
+    <MESSAGE value="LeetCode. Training.1.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.19" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
