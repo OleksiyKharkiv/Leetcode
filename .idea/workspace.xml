@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.19">
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -43,7 +56,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.deploy.options&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -85,7 +98,8 @@
       <workItem from="1688893845134" duration="1479000" />
       <workItem from="1690731157454" duration="2637000" />
       <workItem from="1690903503184" duration="3211000" />
-      <workItem from="1691171477842" duration="1649000" />
+      <workItem from="1691171477842" duration="2880000" />
+      <workItem from="1691328634976" duration="1116000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -293,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691172065847</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="LeetCode. Training.1.20">
+      <option name="closed" value="true" />
+      <created>1691222121764</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1691222121764</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +342,8 @@
     <MESSAGE value="LeetCode. Training.1.17" />
     <MESSAGE value="LeetCode. Training.1.18" />
     <MESSAGE value="LeetCode. Training.1.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.19" />
+    <MESSAGE value="LeetCode. Training.1.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.20" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
