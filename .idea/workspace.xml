@@ -39,6 +39,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2QICN1ofb8TpYi9Bm871Rtm9XmA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -100,7 +104,8 @@
       <workItem from="1690903503184" duration="3211000" />
       <workItem from="1691171477842" duration="2880000" />
       <workItem from="1691328634976" duration="3704000" />
-      <workItem from="1691643988586" duration="597000" />
+      <workItem from="1691643988586" duration="2029000" />
+      <workItem from="1691702608749" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -340,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691530549703</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="LeetCode. Training.1.21">
+      <option name="closed" value="true" />
+      <created>1691702344641</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1691702344641</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
