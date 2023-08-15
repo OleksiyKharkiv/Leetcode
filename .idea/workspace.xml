@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.22">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-    </list>
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +108,7 @@
       <workItem from="1691328634976" duration="3704000" />
       <workItem from="1691643988586" duration="2029000" />
       <workItem from="1691702608749" duration="594000" />
-      <workItem from="1691946809109" duration="2213000" />
+      <workItem from="1691946809109" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -367,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691947216069</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="LeetCode. Training.1.23">
+      <option name="closed" value="true" />
+      <created>1692106038965</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1692106038965</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +406,8 @@
     <MESSAGE value="LeetCode. Training.1.20" />
     <MESSAGE value="LeetCode. Training.1.21" />
     <MESSAGE value="LeetCode. Training.1.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.22" />
+    <MESSAGE value="LeetCode. Training.1.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.23" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
