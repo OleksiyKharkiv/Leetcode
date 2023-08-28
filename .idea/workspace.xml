@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.30">
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.31">
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +69,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -111,7 +117,7 @@
       <workItem from="1691643988586" duration="2029000" />
       <workItem from="1691702608749" duration="594000" />
       <workItem from="1691946809109" duration="15361000" />
-      <workItem from="1693243403552" duration="937000" />
+      <workItem from="1693243403552" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -471,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693248173959</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="LeetCode. Training.1.31">
+      <option name="closed" value="true" />
+      <created>1693248729333</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1693248729333</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +496,6 @@
     <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LeetCode. Training.1.5" />
     <MESSAGE value="LeetCode. Training.1.6" />
     <MESSAGE value="LeetCode. Training.1.7" />
     <MESSAGE value="LeetCode. Training.1.8" />
@@ -507,7 +520,8 @@
     <MESSAGE value="LeetCode. Training.1.28" />
     <MESSAGE value="LeetCode. Training.1.29" />
     <MESSAGE value="LeetCode. Training.1.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.30" />
+    <MESSAGE value="LeetCode. Training.1.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.31" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
