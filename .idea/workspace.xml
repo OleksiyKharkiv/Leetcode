@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.36">
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-    </list>
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.36" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +117,7 @@
       <workItem from="1693243403552" duration="8118000" />
       <workItem from="1693937270215" duration="4799000" />
       <workItem from="1694024947020" duration="1835000" />
-      <workItem from="1694457519923" duration="2505000" />
+      <workItem from="1694457519923" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -246,14 +244,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1688378573648</updated>
-    </task>
-    <task id="LOCAL-00035" summary="LeetCode. Training.1.23">
-      <option name="closed" value="true" />
-      <created>1692106038965</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1692106038965</updated>
     </task>
     <task id="LOCAL-00036" summary="LeetCode. Training.1.24">
       <option name="closed" value="true" />
@@ -495,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694637032292</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="LeetCode. Training.1.36">
+      <option name="closed" value="true" />
+      <created>1694637205377</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1694637205377</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
