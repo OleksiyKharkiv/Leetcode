@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.49">
-      <change beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
-    </list>
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.49" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +162,7 @@
       <workItem from="1696619328811" duration="1705000" />
       <workItem from="1696785185995" duration="297000" />
       <workItem from="1698488450733" duration="1035000" />
-      <workItem from="1703591714801" duration="5096000" />
+      <workItem from="1703591714801" duration="5714000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -291,14 +289,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1688378573648</updated>
-    </task>
-    <task id="LOCAL-00076" summary="LeetCode. Training.1.38">
-      <option name="closed" value="true" />
-      <created>1695411482703</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1695411482704</updated>
     </task>
     <task id="LOCAL-00077" summary="LeetCode. Training.1.38">
       <option name="closed" value="true" />
@@ -540,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703961992402</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="LeetCode. Training.1.49">
+      <option name="closed" value="true" />
+      <created>1703963206216</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1703963206216</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
