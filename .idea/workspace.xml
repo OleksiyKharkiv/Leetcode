@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.51">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="350a8b71-be7e-4b19-9396-b2c2468c5b95" name="Changes" comment="LeetCode. Training.1.52" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +166,7 @@
       <workItem from="1704031037115" duration="1331000" />
       <workItem from="1704114119522" duration="1613000" />
       <workItem from="1704201073525" duration="1856000" />
-      <workItem from="1704311349444" duration="1538000" />
+      <workItem from="1704311349444" duration="2167000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode. Training.1.0">
       <created>1685469787988</created>
@@ -296,14 +293,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1688378573648</updated>
-    </task>
-    <task id="LOCAL-00085" summary="LeetCode. Training.1.41">
-      <option name="closed" value="true" />
-      <created>1695842258860</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1695842258860</updated>
     </task>
     <task id="LOCAL-00086" summary="LeetCode. Training.1.42">
       <option name="closed" value="true" />
@@ -545,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704311362939</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="LeetCode. Training.1.52">
+      <option name="closed" value="true" />
+      <created>1704313388874</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1704313388874</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +553,6 @@
     <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LeetCode. Training.1.27" />
     <MESSAGE value="LeetCode. Training.1.28" />
     <MESSAGE value="LeetCode. Training.1.29" />
     <MESSAGE value="LeetCode. Training.1.30" />
@@ -581,7 +577,8 @@
     <MESSAGE value="LeetCode. Training.1.49" />
     <MESSAGE value="LeetCode. Training.1.50" />
     <MESSAGE value="LeetCode. Training.1.51" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.51" />
+    <MESSAGE value="LeetCode. Training.1.52" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode. Training.1.52" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
