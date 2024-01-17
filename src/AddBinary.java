@@ -25,7 +25,6 @@ public class AddBinary {
             // Вычисляем перенос для следующего бита
             carry = sum / 2;
         }
-
         return result.toString(); // Возвращаем результат в виде строки
     }
 }
