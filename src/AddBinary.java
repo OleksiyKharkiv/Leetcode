@@ -14,7 +14,6 @@ public class AddBinary {
             if (i >= 0) {
                 sum += a.charAt(i--) - '0';
             }
-
             // Если есть символ в строке b, добавляем его код символа - код символа '0'
             if (j >= 0) {
                 sum += b.charAt(j--) - '0';
