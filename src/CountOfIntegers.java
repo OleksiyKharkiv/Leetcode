@@ -31,7 +31,6 @@ public class CountOfIntegers {
             sum += num % 10;
             num /= 10;
         }
-
         return sum;
     }
 }
