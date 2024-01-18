@@ -30,7 +30,6 @@ public class IntersectionOfTwoArrays {
         for (int i = 0; i < intersection.size(); i++) {
             result[i] = intersection.get(i);
         }
-
         return result;
     }
 }
