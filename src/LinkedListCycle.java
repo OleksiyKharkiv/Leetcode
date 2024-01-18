@@ -26,7 +26,6 @@ public class LinkedListCycle {
                     return true; // Найден цикл
                 }
             }
-
             return false; // Цикл не найден
         }
     }
