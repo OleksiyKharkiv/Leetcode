@@ -24,7 +24,6 @@ public class LongestCommonPrefix {
                 }
             }
         }
-        // После прохода всех строк, возвращаем найденный общий префикс.
         return prefix;
     }
 }
