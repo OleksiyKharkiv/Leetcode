@@ -20,7 +20,6 @@ public class MatrixAfterQueries {
                 }
             }
         }
-
         return sum;
     }
 }
