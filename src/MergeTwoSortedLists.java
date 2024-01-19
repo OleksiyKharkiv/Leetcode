@@ -30,7 +30,6 @@ public class MergeTwoSortedLists{
             if (list2 != null) {
                 current.next = list2;
             }
-
             return dummy.next;
         }
 }
