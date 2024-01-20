@@ -25,5 +25,4 @@ public class MiddleOfLinkedList {
         List<ListNode> newList = new ArrayList<>(subList);
         return newList;
     }
-
 }
