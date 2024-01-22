@@ -10,7 +10,6 @@ public class MissingNumber {
         for (int num : nums) {
             actualSum += num;
         }
-
         // Пропущенное число равно разности между ожидаемой суммой и фактической суммой
         int missingNumber = expectedSum - actualSum;
         return missingNumber;
