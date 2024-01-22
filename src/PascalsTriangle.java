@@ -14,7 +14,6 @@ public class PascalsTriangle {
             return generate;
         } else {
 
-
             List<Integer> list0 = new ArrayList<>();
             list0.add(1);
             generate.add(list0);
