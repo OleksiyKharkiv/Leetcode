@@ -32,7 +32,6 @@ public class PojoPerson {
     public void setGender(String gender) {
         this.gender = gender;
     }
-
     @Override
     public String toString() {
         return "Person =[name: " + name + ", age: " + age + ", gender: " + gender + "]" ;
