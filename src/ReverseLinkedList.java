@@ -19,7 +19,6 @@ public class ReverseLinkedList {
             prev = current;
             current = nextNode;
         }
-
         return prev;
     }
 }
