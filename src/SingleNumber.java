@@ -15,7 +15,6 @@ public class SingleNumber {
         }
         List<Map.Entry<Integer, Integer>> entryList = new ArrayList<>(map.entrySet());
         entryList.sort(Comparator.comparingInt(Map.Entry::getValue));
-
         int res = entryList.get(0).getKey();
         return res;
     }
