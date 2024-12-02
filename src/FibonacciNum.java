@@ -19,20 +19,12 @@ public class FibonacciNum {
     }
 
     public static int fibonacciNum(int n) {
-        int f = 0;
         if (n == 0 || n == 1 || n == -1) {
-            f = n;
+            return n;
         }
         if (n > 1) {
-            for (int i = 2; i <= n; i++) {
-                f = fibonacciNum(i - 1) + fibonacciNum(i - 2);
-            }
+            return fibonacciNum(n - 1) + fibonacciNum(n - 2);
         }
-        if (n < -1) {
-            for (int i = -2; i >= n; i--) {
-                f = fibonacciNum(i + 2) - fibonacciNum(i + 1);
-            }
-        }
-        return f;
+        return (fibonacciNum(Math.abs(n) - 1) + fibonacciNum(Math.abs(n)-2))*(-1);
     }
 }
