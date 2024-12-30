@@ -10,9 +10,9 @@ public class GuessGame {
         p2 = new Player();
         p3 = new Player();
 
-        int guessp1 = 0;
-        int guessp2 = 0;
-        int guessp3 = 0;
+        int guessp1;
+        int guessp2;
+        int guessp3;
 
         boolean p1IsRight = false;
         boolean p2IsRight = false;
@@ -31,23 +31,24 @@ public class GuessGame {
             System.out.println("Second player think that the number is " + guessp2);
             guessp3 = p3.number;
             System.out.println("Third player think that the number is " + guessp3);
-            if (guessp1 == targetNumber){
+            if (guessp1 == targetNumber) {
                 p1IsRight = true;
             }
-            if (guessp2 == targetNumber){
+            if (guessp2 == targetNumber) {
                 p2IsRight = true;
             }
-            if (guessp3 == targetNumber){
+            if (guessp3 == targetNumber) {
                 p3IsRight = true;
             }
-            if (p1IsRight == true || p2IsRight == true || p3IsRight == true){
-                System.out.println("We have a winner!");
+            if (p1IsRight || p2IsRight || p3IsRight) {
+                System.out.println("We have a winner! I wished for the number " + targetNumber);
                 System.out.println("Is that First player ? " + p1IsRight);
                 System.out.println("Is that Second player ? " + p2IsRight);
                 System.out.println("Is that Third player ? " + p3IsRight);
                 break;
             } else {
-                System.out.println("We don't have a single winner! Let's continue!");
+                System.out.println("I wished for the number " + targetNumber + " We don't have a single winner! Let's continue!");
+                System.out.println();
             }
         }
     }
