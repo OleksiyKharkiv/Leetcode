@@ -18,6 +18,7 @@ public class SwapNodePairs {
             curr = nextPair;
 
         }
+        return dummy.next;
     }
 
 }
