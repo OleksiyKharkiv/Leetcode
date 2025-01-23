@@ -12,16 +12,13 @@ public class FiveMinArrMembers {
         try {
             int[] res = fiveMinVal(testArr);
             System.out.println("\nResult: " + Arrays.toString(res));
-        } catch (CustomExceptions.ArrayIsNullExceptions |
-                 CustomExceptions.ArrayElementTypeException |
+        } catch (CustomExceptions.ArrayIsNullExceptions | CustomExceptions.ArrayElementTypeException |
                  CustomExceptions.InvalidElementValueException e) {
             System.err.println("Error: " + e.getMessage());
         }
     }
 
-    public static int[] fiveMinVal(int[] arr) throws CustomExceptions.ArrayIsNullExceptions,
-            CustomExceptions.ArrayElementTypeException,
-            CustomExceptions.InvalidElementValueException {
+    public static int[] fiveMinVal(int[] arr) throws CustomExceptions.ArrayIsNullExceptions, CustomExceptions.ArrayElementTypeException, CustomExceptions.InvalidElementValueException {
         if (arr == null) {
             throw new CustomExceptions.ArrayIsNullExceptions("Array is null");
         }
@@ -32,9 +29,9 @@ public class FiveMinArrMembers {
             }
         }
 
-        int[] result = new int[Math.min(arr.length, 5)]; // Размер массива зависит от входных данных
-        boolean isSizeExceptionCaught = false;          // Флаг для обработки ArraySizeException
-        boolean isDuplicatesExceptionCaught = false;    // Флаг для обработки DuplicateElementsException
+        int[] result = new int[Math.min(arr.length, 5)];
+        boolean isSizeExceptionCaught = false;
+        boolean isDuplicatesExceptionCaught = false;
 
         try {
             if (arr.length < 5) {
@@ -49,7 +46,7 @@ public class FiveMinArrMembers {
                 for (int num : arr) {
                     minHeap.add(num);
                     if (minHeap.size() > 5) {
-                        minHeap.poll(); // Remove the largest element in the heap
+                        minHeap.poll();
                     }
                 }
                 for (int i = result.length - 1; i >= 0; i--) {
@@ -72,15 +69,12 @@ public class FiveMinArrMembers {
             isDuplicatesExceptionCaught = true;
         }
 
-        // Печать предупреждения об исключениях
         if (isSizeExceptionCaught) {
             System.err.println("Result includes fewer than 5 elements.");
         }
         if (isDuplicatesExceptionCaught) {
             System.err.println("Result includes duplicates.");
         }
-
-        // Печать результата
         for (int i = 0; i < result.length; i++) {
             System.out.print("Min" + (i + 1) + " = " + result[i] + " ");
         }
