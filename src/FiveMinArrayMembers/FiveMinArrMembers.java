@@ -20,7 +20,7 @@ public class FiveMinArrMembers {
 
     public static int[] fiveMinVal(int[] arr) throws CustomExceptions.ArrayIsNullExceptions, CustomExceptions.ArrayElementTypeException, CustomExceptions.InvalidElementValueException {
         if (arr == null) {
-            throw new CustomExceptions.ArrayIsNullExceptions("Array is null");
+            throw new CustomExceptions.ArrayIsNullExceptions(ErrorMessage.ARRAY_IS_NULL);
         }
 
         for (int num : arr) {
