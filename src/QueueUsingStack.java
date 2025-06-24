@@ -26,9 +26,10 @@ public class QueueUsingStack {
         public boolean empty() {
             return s1.isEmpty() && s2.isEmpty();
         }
-        private void shiftS(){
-            if(s2.isEmpty()){
-                while(!s1.isEmpty()){
+
+        private void shiftS() {
+            if (s2.isEmpty()) {
+                while (!s1.isEmpty()) {
                     s2.push(s1.pop());
                 }
             }
