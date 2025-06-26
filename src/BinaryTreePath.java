@@ -13,6 +13,7 @@ public class BinaryTreePath {
             right = null;
         }
     }
+
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> res = new ArrayList<>();
         if (root == null) {
