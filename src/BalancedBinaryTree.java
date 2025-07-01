@@ -14,6 +14,7 @@ public class BalancedBinaryTree {
      * }
      * }
      */
+
     public boolean isBalanced(TreeNode root) {
         return checkBalance(root) != -1;
     }
