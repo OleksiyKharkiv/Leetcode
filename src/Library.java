@@ -1,16 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//book
-//        title
-//        author
-//
-//        library
-//        addBook(Book book)
-//        boolen checkBook (Book book)
-//        POJO
-//aaaabbbcdddaaa
-//        4a3bc3d3a
+
 public class Library {
 
     public static void main(String[] args) {
