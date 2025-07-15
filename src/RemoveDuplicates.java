@@ -14,7 +14,7 @@ public class RemoveDuplicates {
         for (int i = 0; i < n; i++) {
             System.out.println("Enter the " + i + "member of array :");
             arr[i] = scanner.nextInt();
-            if (!seen.add(arr[i])){
+            if (!seen.add(arr[i])) {
                 duplicates.add(arr[i]);
             }
         }
