@@ -1,11 +1,11 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * int val;
+ * ListNode next;
+ * ListNode() {}
+ * ListNode(int val) { this.val = val; }
+ * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
@@ -15,13 +15,14 @@ class Solution {
         left = head;
         dfs(head);
     }
-    private void dfs (ListNode right){
+
+    private void dfs(ListNode right) {
         if (right == null) return;
 
         dfs(right.next);
         if (left == null) return;
 
-        if (left == right || left.next == right){
+        if (left == right || left.next == right) {
             right.next = null;
             left = null;
             return;
