@@ -5,7 +5,7 @@ public class MinimizeStringLength {
     public int minimizedStringLength(String s) {
 
         List<Character> charList = s.chars()
-                .mapToObj(c -> (char)c)
+                .mapToObj(c -> (char) c)
                 .distinct()
                 .collect(Collectors.toList());
 
