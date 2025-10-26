@@ -1,13 +1,11 @@
 public class Bank {
-    private int n;
-    private long[] accounts;
+    private final int n;
+    private final long[] accounts;
 
     public Bank(long[] balance) {
         this.n = balance.length;
         this.accounts = new long[n + 1];
-        for (int i = 0; i < n; i++) {
-            accounts[i + 1] = balance[i];
-        }
+        System.arraycopy(balance, 0, accounts, 1, n);
     }
 
     private boolean accIsValid(int account) {
